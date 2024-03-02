@@ -1,4 +1,4 @@
-<h1 align="center"> Crie.Evento</h1>
+<h1 align="center"> CrieEvento</h1>
 
 <p align="center">
 Programa exclusivo para estudo de tecnologias WEB.
